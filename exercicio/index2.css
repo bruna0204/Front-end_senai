@@ -1,0 +1,22 @@
+.centro {
+    width: 300px;
+    height: 300px;
+}
+
+.card-title {
+    font-size: 30px;
+
+}
+.card-text {
+    font-size: 20px;
+    font-family: "Comic Sans MS";
+}
+
+.img3 {
+   width: 130px;
+    height: 130px;
+}
+
+.meu_icone:hover {
+    color: blue;
+}
