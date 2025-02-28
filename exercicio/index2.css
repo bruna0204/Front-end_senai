@@ -3,9 +3,28 @@
     height: 300px;
 }
 
-.card-title {
-    font-size: 30px;
 
+.centros {
+    width: 80vh;
+    height: 80vh;
+
+}
+.sobre {
+    color: darkblue;
+    background-color: #6ba7ff;
+}
+ .letra{
+         font-family: "Comic Sans MS";
+
+ }
+
+.card-title {
+    font-family: "Comic Sans MS";
+
+}
+.img4  {
+    width:  220px;
+    height: 225px;
 }
 .card-text {
     font-size: 20px;
@@ -19,4 +38,8 @@
 
 .meu_icone:hover {
     color: blue;
+}
+
+.fundo {
+    background-color: #bbd0fd;
 }
