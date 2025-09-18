@@ -88,10 +88,19 @@ Cards alinhados em grade à esquerda (navegação natural tipo catálogo).
 
 Informações separadas e mais fáceis de ler (hierarquia visual). 
 
+
 Feedback visual com spinner ao carregar produtos ou trocar categoria. 
+
 
 Hierarquia de cores aplicada (azul no título, verde no preço, vermelho no erro). 
 
 antes:
+<img width="992" height="849" alt="Captura de tela 2025-09-04 151523" src="https://github.com/user-attachments/assets/9f3b80d4-9e9d-4f88-95e1-4545dcc14dbe" />
+
+
+depois:
+
+<img width="1895" height="892" alt="image" src="https://github.com/user-attachments/assets/61894a03-8a09-49fb-a887-0e9e6cb7dc01" />
+
 
  
